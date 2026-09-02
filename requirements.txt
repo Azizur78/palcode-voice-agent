@@ -1,0 +1,2 @@
+# The core routing and FAQ logic uses Python's standard library.
+# No external package is required for the current implementation.
